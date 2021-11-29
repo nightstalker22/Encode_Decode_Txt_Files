@@ -4,13 +4,6 @@
 #include <ctype.h>
 #include <conio.h>
 
-/***********************************\
- * Hayes, Gary Oliver              *
- * CS50 Tues-Thurs                 *
- * Section 4109                    *
- * EncodeDecode.c                  *
-\***********************************/
-
 void menu(char *letters, char *enc);
 void encodeDecode(char *letters, char *enc, int func);
 
